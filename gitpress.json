@@ -4,7 +4,7 @@
 
 },	
 "perpage" : 10,
-"template" : "tactile",
+"template" : "phase",
 "types" : {
 "\\.(md||markdown)$" : "markdown",
 "\\.(js||css||json)$" : "code",
