@@ -4,14 +4,14 @@
 
 },	
 "perpage" : 10,
-"template" : "pithiness",
+"template" : "slate",
 "types" : {
 "\\.(md||markdown)$" : "markdown",
 "\\.(js||css||json)$" : "code",
 "\\.html?$" : "html",
 ".*" : "text"	
 },
-"title" : "Osean's Blog",
+"title" : "直到长出青苔",
 "comment" : {"type": "duoshuo", "short_name":"osean"},
 "domain-alias" : [],
 "friends" : [
