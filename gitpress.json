@@ -14,7 +14,7 @@
 },
 "title" : "Osean's Blog",
 "comment" : {"type": "duoshuo", "short_name":"osean"},
-"domain-alias" : ["~blog.weizoo.com", "blog.silverna.org", "silverna.org", "www.silverna.org"],
+"domain-alias" : [],
 "friends" : [
 {
 "name" : "JerryQu的小站",
