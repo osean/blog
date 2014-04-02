@@ -9,7 +9,7 @@
 "它": "posts/它"
 },	
 "perpage" : 20,
-"template" : "phase",
+"template" : "slate",
 "types" : {
 "\\.(md||markdown)$" : "markdown",
 "\\.(js||css||json)$" : "code",
