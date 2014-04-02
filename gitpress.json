@@ -9,7 +9,7 @@
 "关于": "README.md"
 },	
 "perpage" : 20,
-"template" : "greyshade",
+"template" : "pithiness",
 "types" : {
 "\\.(md||markdown)$" : "markdown",
 "\\.(js||css||json)$" : "code",
