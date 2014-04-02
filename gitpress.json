@@ -9,7 +9,7 @@
 "关于我的博客": "README.md"
 },	
 "perpage" : 20,
-"template" : "phase",
+"template" : "greyshade",
 "types" : {
 "\\.(md||markdown)$" : "markdown",
 "\\.(js||css||json)$" : "code",
