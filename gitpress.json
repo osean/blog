@@ -1,7 +1,11 @@
 {
 "docs" : {
-"关于我的博客": "README.md"
-
+"关于我的博客": "README.md",
+"看": "posts/Watch",
+"读": "posts/Read",
+"想": "posts/Think",
+"问": "posts/Ask",
+"走": "posts/Go"
 },	
 "perpage" : 10,
 "template" : "phase",
