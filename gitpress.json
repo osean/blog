@@ -6,7 +6,7 @@
 "问": "posts/问",
 "走": "posts/走",
 "它": "posts/它",
-"关于":"README.md"
+"关于": "README.md"
 },	
 "perpage" : 20,
 "template" : "greyshade",
@@ -17,7 +17,7 @@
 ".*" : "text"	
 },
 "title" : "直到长出青苔",
-"comment" : {"on"},
+"comment" : {"type": "duoshuo", "short_name":"osean"},
 "domain-alias" : [],
 "friends" : [
 ]
