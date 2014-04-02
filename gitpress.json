@@ -1,11 +1,12 @@
 {
 "docs" : {
 "关于我的博客": "README.md",
-"看": "posts/Watch",
-"读": "posts/Read",
-"想": "posts/Think",
-"问": "posts/Ask",
-"走": "posts/Go"
+"看": "posts/看",
+"读": "posts/读",
+"想": "posts/想",
+"问": "posts/问",
+"走": "posts/走",
+"它": "posts/它"
 },	
 "perpage" : 10,
 "template" : "phase",
