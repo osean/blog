@@ -17,7 +17,7 @@
 ".*" : "text"	
 },
 "title" : "直到长出青苔",
-"comment" : "on",
+"comment" : {"type": "duoshuo", "short_name":"osean"},
 "domain-alias" : [],
 "friends" : [
 ]
